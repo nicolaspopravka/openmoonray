@@ -8,7 +8,7 @@
 	branch = main
 [submodule "moonray/scene_rdl2"]
 	path = moonray/scene_rdl2
-	url = https://github.com/OpenMoonRay/scene_rdl2
+	url = https://github.com/nicolaspopravka/scene_rdl2
 	branch = main
 [submodule "moonray/mcrt_denoise"]
 	path = moonray/mcrt_denoise
